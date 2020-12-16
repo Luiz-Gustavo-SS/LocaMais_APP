@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1608087082 source:c:\users\maycon\onedrive\Área de trabalho\codeblocks\exercicios em c\locamais app\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	"LocaMais_B.h"
+
+1608087124 c:\users\maycon\onedrive\Área de trabalho\codeblocks\exercicios em c\locamais app\locamais_b.h
+
+1608086990 source:c:\users\maycon\onedrive\Área de trabalho\codeblocks\exercicios em c\locamais app\locamais_b.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	"LocaMais_B.h"
+
